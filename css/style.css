@@ -1,0 +1,41 @@
+.navbar-brand{
+    font-size: 3vw;
+    color: rgb(116, 113, 108);
+}
+.spacer{
+    margin: 5vh 0vh;
+}
+.card{
+    border: none;
+}
+.ha-solid{
+    font-size: 3vw;
+    color: brown;
+}
+.img-r{
+    padding-right: 9px;
+}
+.brad{
+    border: 4px solid grey;
+    border-radius: 14px;
+}
+.space{
+    margin-top: 12px;
+}
+/* 
+
+
+d-flex align-items-center justify-content-center
+
+
+
+
+
+
+
+<img src="..." class="img-fluid" alt="...">
+
+
+
+
+*/
